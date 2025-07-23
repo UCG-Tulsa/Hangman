@@ -25,3 +25,5 @@ Visual Update – swap to the next image in images[] each time hangman_mistakes 
 Connects logic to graphics.
 
 Checklist for success: If your game runs cleanly, updates the picture, and prints a win/lose message after guessing, you’ve met the six core requirements.
+
+https://drive.google.com/drive/folders/1hoSanr029TEwOTsaLVubEmsyGxdxqliS
